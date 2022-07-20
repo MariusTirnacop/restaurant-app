@@ -61,9 +61,9 @@ const Navbar = () => {
               <li className="p__opensans">
                 <a href="#about">About</a>
               </li>
-              <li className="p__opensans">
+              {/* <li className="p__opensans">
                 <a href="#menu">Menu</a>
-              </li>
+              </li> */}
               <li className="p__opensans">
                 <a href="#awards">Awards</a>
               </li>
