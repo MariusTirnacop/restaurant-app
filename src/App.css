@@ -175,3 +175,39 @@
     line-height: 70px;
   }
 }
+
+.container-input {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.input-custom {
+  width: 300px;
+  margin-top: 4rem;
+  height: 100%;
+}
+
+.list-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+
+.list-item p {
+  margin-right: 10px;
+}
+
+.list-item-complete {
+  color: lightcoral;
+}
+
+.list-item-not-complete {
+  color: red;
+}
+
+.btn-animation {
+  border: none;
+}
